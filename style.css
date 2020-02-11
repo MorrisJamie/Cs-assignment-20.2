@@ -1,0 +1,10 @@
+div.col-sm{
+    background-color: rgb(255, 53, 53);
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: rgb(255, 53, 53);
+}
+
+
